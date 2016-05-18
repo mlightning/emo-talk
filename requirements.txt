@@ -1,0 +1,9 @@
+django==1.9.2
+djangorestframework==3.3.2
+django-cors-headers==1.1.0
+mysqlclient==1.3.7
+Pillow
+drfdocs==0.0.6
+django-push-notifications==1.4.1
+django-smtp-ssl
+emoji
